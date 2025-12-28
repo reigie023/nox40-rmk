@@ -5,7 +5,7 @@ RMK 0.8.2 のローカルビルド用に、nox40向け差分ファイルとバ�
 * nox40-rmk-central.uf2 左手側ファームウェア
 * nox40-rmk-peripheral.uf2 右手用ファームウェア
 
-後は、Vialのデスクトップアプリか、[Webサイト](https://vial.rocks)へアクセスしてキーマップを編集してください。 
+後は、[Vial](https://get.vial.today/)のデスクトップアプリか、[Webサイト](https://vial.rocks/)へアクセスしてキーマップを編集してください。 
 
 RMKはZMKと比較して以下の点でメリットがあります。
 
