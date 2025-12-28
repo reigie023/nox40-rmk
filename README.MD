@@ -1,6 +1,6 @@
 # RMK firmware for nox40
 
-RMK 0.8.2 のローカルビルド用に、nox40向け差分ファイルとバイナリを置いておきます。[Releases](https://github.com/reigie023/nox40-rmk/releases)からダウンロードしてビルドガイド通りに Xiao BLE に書き込んでください。
+RMK 0.8.2 のローカルビルド用に、nox40向け差分ファイルとバイナリを置いておきます。[Releases](https://github.com/reigie023/nox40-rmk/releases)からダウンロードして[ビルドガイド](https://note.com/cerbekoskeyboard/n/n59fb75307f3f#43b8d3b3-5161-46e9-9891-54f0936f1605)通りに Xiao BLE に書き込んでください。
 
 * nox40-rmk-central.uf2 左手側ファームウェア
 * nox40-rmk-peripheral.uf2 右手用ファームウェア
