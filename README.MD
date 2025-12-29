@@ -2,8 +2,8 @@
 
 RMK 0.8.2 のローカルビルド用に、nox40向け差分ファイルとバイナリを置いておきます。[Releases](https://github.com/reigie023/nox40-rmk/releases)からダウンロードして[ビルドガイド](https://note.com/cerbekoskeyboard/n/n59fb75307f3f#43b8d3b3-5161-46e9-9891-54f0936f1605)通りに Xiao BLE に書き込んでください。
 
-* nox40-rmk-central.uf2 左手側ファームウェア
-* nox40-rmk-peripheral.uf2 右手用ファームウェア
+* nox40-rmk-central.uf2 (左手側ファームウェア)
+* nox40-rmk-peripheral.uf2 (右手用ファームウェア)
 
 後は、左手側をPCへUSBで有線接続して、[Vial](https://get.vial.today/)のデスクトップアプリか、[Webサイト](https://vial.rocks/)へアクセスしてキーマップを編集してください。(初期のキーマップは動作確認用なので適当です。)   
 キーマップの編集は有線接続時のみ可能です。
